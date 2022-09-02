@@ -15,7 +15,7 @@ function App() {
       </nav>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<ShowBlog/>}/>
+          <Route path="BlogTest/" element={<ShowBlog/>}/>
         </Routes>
       </BrowserRouter>
     </div>
